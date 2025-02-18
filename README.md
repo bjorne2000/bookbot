@@ -1,1 +1,1 @@
-BookBot is my first project!
+Read a text file and count how many times each character is there.
